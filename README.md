@@ -66,7 +66,7 @@ A RESTful API for managing a library's book collection and user borrowing system
 
 ## Technical Details
 
-- Built using Node.js, Express.js, and Mongoose
+- Built using Node.js, Express.js, Mongoose, and Jest
 - Utilizes MongoDB for data storage
 - Implemented authentication and authorization using JSON Web Tokens
 
