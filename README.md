@@ -1,5 +1,16 @@
-# Library API
-
+<div align="center">
+<pre>
+██╗     ██╗██████╗ ██████╗  █████╗ ██████╗ ██╗   ██╗     █████╗ ██████╗ ██╗
+██║     ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝    ██╔══██╗██╔══██╗██║
+██║     ██║██████╔╝██████╔╝███████║██████╔╝ ╚████╔╝     ███████║██████╔╝██║
+██║     ██║██╔══██╗██╔══██╗██╔══██║██╔══██╗  ╚██╔╝      ██╔══██║██╔═══╝ ██║
+███████╗██║██████╔╝██║  ██║██║  ██║██║  ██║   ██║       ██║  ██║██║     ██║
+╚══════╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝       ╚═╝  ╚═╝╚═╝     ╚═╝
+---------------------------------------------------
+Library API to best organize YOUR library!
+</pre>
+</div>
+  
 ## Description
 
 A RESTful API for managing a library's book collection and user borrowing system. This project aims to provide a scalable and maintainable solution for library management.
